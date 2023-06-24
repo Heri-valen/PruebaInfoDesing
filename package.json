@@ -1,0 +1,23 @@
+{
+  "name": "pruebainfodesing",
+  "version": "1.0.0",
+  "description": "Prueba Tecnica para Info Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BackPruebaInfoDesign"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Heriberto Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mssql": "^9.1.1"
+  }
+}
