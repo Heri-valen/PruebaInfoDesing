@@ -14,7 +14,7 @@ const dbConfig = {
     encrypt: true, // Si estás utilizando Azure, establece esto en true
   },
 };
-
+ 
 // Middleware para habilitar CORS
 app.use(cors());
 
